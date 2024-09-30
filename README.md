@@ -6,7 +6,7 @@
 ## Technologies Used
 - Python
 - OpenCV
-- YoloV5
+- YOLOv5
 
 ## Link to Symposium Paper
 This project explained in more detail from our paper: [ImNO 2024](https://media.licdn.com/dms/document/media/D562DAQE9x5SZqRa1dQ/profile-treasury-document-pdf-analyzed/0/1717336750578?e=1728518400&v=beta&t=5iAeTSOprIYwuJlJmEul8Edb3MsboscpJwsizXN3MmU)
